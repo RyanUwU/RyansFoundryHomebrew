@@ -1,3 +1,7 @@
+# NOTE TO SELF DONT FORGET TO UPDATE VESION ON BOTH "version" & the url in "download"
+
+
+
 ![](https://img.shields.io/badge/Foundry-v10-informational)
 <!--- Downloads @ Latest Badge -->
 <!--- replace <user>/<repo> with your username/repository -->
