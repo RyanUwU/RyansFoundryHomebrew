@@ -1,8 +1,12 @@
-2024/03/19-05:50:39.196 7538 Log #12: 0 ops saved to Table #22 OK
-2024/03/19-05:50:39.196 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\siren-collage/000012.log: OK
-2024/03/19-05:50:39.197 7538 Log #21: 0 ops saved to Table #23 OK
-2024/03/19-05:50:39.197 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\siren-collage/000021.log: OK
-2024/03/19-05:50:39.197 7538 Table #14: 6 entries OK
-2024/03/19-05:50:39.270 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\siren-collage/MANIFEST-000010: OK
-2024/03/19-05:50:39.270 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\siren-collage/MANIFEST-000019: OK
-2024/03/19-05:50:39.414 7538 **** Repaired leveldb R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\siren-collage; recovered 1 files; 6511 bytes. Some data may have been lost. ****
+2024/03/19-05:50:39.569 7bb8 Delete type=3 #1
+2024/03/19-07:12:49.640 3cb8 Level-0 table #27: started
+2024/03/19-07:12:49.704 3cb8 Level-0 table #27: 3041 bytes OK
+2024/03/19-07:12:49.773 3cb8 Delete type=0 #25
+2024/03/19-07:12:50.115 3cb8 Manual compaction at level-0 from '!items!8ZtPzrn9n3oOT6q2' @ 72057594037927935 : 1 .. '!items!t1RLgo8Toq4WjLeR' @ 0 : 0; will stop at '!items!t1RLgo8Toq4WjLeR' @ 29 : 1
+2024/03/19-07:12:50.115 3cb8 Compacting 2@0 + 0@1 files
+2024/03/19-07:12:50.162 3cb8 Generated table #28@0: 6 keys, 6570 bytes
+2024/03/19-07:12:50.162 3cb8 Compacted 2@0 + 0@1 files => 6570 bytes
+2024/03/19-07:12:50.236 3cb8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/19-07:12:50.237 3cb8 Delete type=2 #14
+2024/03/19-07:12:50.237 3cb8 Delete type=2 #27
+2024/03/19-07:12:50.591 3cb8 Manual compaction at level-0 from '!items!t1RLgo8Toq4WjLeR' @ 29 : 1 .. '!items!t1RLgo8Toq4WjLeR' @ 0 : 0; will stop at (end)

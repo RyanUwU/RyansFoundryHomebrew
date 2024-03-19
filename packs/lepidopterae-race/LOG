@@ -1,5 +1,3 @@
-2024/03/19-05:50:41.746 7538 Delete type=3 #1
-2024/03/19-07:12:51.000 3cb8 Level-0 table #5: started
-2024/03/19-07:12:51.064 3cb8 Level-0 table #5: 416936 bytes OK
-2024/03/19-07:12:51.132 3cb8 Delete type=0 #3
-2024/03/19-07:12:51.663 3cb8 Manual compaction at level-0 from '!folders!zUalsPg04wewX0yg' @ 72057594037927935 : 1 .. '!items.effects!eLvD4tnkLTam6ZOx.Trqz0UzEZyNVWbWB' @ 0 : 0; will stop at (end)
+2024/03/19-07:14:53.590 3918 Recovering log #4
+2024/03/19-07:14:53.728 3918 Delete type=0 #4
+2024/03/19-07:14:53.728 3918 Delete type=3 #2

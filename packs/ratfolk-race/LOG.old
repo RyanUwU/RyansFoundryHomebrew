@@ -1,8 +1,12 @@
-2024/03/19-05:50:40.194 7538 Log #12: 0 ops saved to Table #22 OK
-2024/03/19-05:50:40.194 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/000012.log: OK
-2024/03/19-05:50:40.195 7538 Log #21: 0 ops saved to Table #23 OK
-2024/03/19-05:50:40.195 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/000021.log: OK
-2024/03/19-05:50:40.195 7538 Table #14: 4 entries OK
-2024/03/19-05:50:40.275 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/MANIFEST-000010: OK
-2024/03/19-05:50:40.276 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/MANIFEST-000019: OK
-2024/03/19-05:50:40.354 7538 **** Repaired leveldb R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race; recovered 1 files; 8172 bytes. Some data may have been lost. ****
+2024/03/19-05:50:40.515 7538 Delete type=3 #1
+2024/03/19-07:12:49.773 3cb8 Level-0 table #27: started
+2024/03/19-07:12:49.844 3cb8 Level-0 table #27: 6510 bytes OK
+2024/03/19-07:12:49.917 3cb8 Delete type=0 #25
+2024/03/19-07:12:50.237 3cb8 Manual compaction at level-0 from '!items!2Bpz1vP9FWyO1PME' @ 72057594037927935 : 1 .. '!items!y8O5bB7gMoYbnyUJ' @ 0 : 0; will stop at '!items!KSqFPZOZzQ1wB7YJ' @ 23 : 1
+2024/03/19-07:12:50.237 3cb8 Compacting 2@0 + 0@1 files
+2024/03/19-07:12:50.295 3cb8 Generated table #28@0: 4 keys, 8207 bytes
+2024/03/19-07:12:50.295 3cb8 Compacted 2@0 + 0@1 files => 8207 bytes
+2024/03/19-07:12:50.369 3cb8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/19-07:12:50.370 3cb8 Delete type=2 #14
+2024/03/19-07:12:50.370 3cb8 Delete type=2 #27
+2024/03/19-07:12:50.591 3cb8 Manual compaction at level-0 from '!items!KSqFPZOZzQ1wB7YJ' @ 23 : 1 .. '!items!y8O5bB7gMoYbnyUJ' @ 0 : 0; will stop at (end)
