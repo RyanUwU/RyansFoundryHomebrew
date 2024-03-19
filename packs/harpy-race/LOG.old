@@ -1,0 +1,23 @@
+2024/03/19-05:30:41.273662 7f3b02fbe700 Recovering log #15
+2024/03/19-05:30:41.273733 7f3b02fbe700 Level-0 table #17: started
+2024/03/19-05:30:41.276077 7f3b02fbe700 Level-0 table #17: 4599 bytes OK
+2024/03/19-05:30:41.282842 7f3b02fbe700 Delete type=0 #15
+2024/03/19-05:30:41.282886 7f3b02fbe700 Delete type=3 #14
+2024/03/19-05:31:52.802258 7f3b009e4700 Level-0 table #20: started
+2024/03/19-05:31:52.802286 7f3b009e4700 Level-0 table #20: 0 bytes OK
+2024/03/19-05:31:52.804028 7f3b009e4700 Delete type=0 #18
+2024/03/19-05:31:52.806694 7f3b009e4700 Manual compaction at level-0 from '!items!B7k1lN0SWIMx5p1L' @ 72057594037927935 : 1 .. '!items!nIjMkLEjT4DnWf20' @ 0 : 0; will stop at '!items!RZJhfIplsocp1MYP' @ 20 : 1
+2024/03/19-05:31:52.806702 7f3b009e4700 Compacting 1@0 + 0@1 files
+2024/03/19-05:31:52.807815 7f3b009e4700 Generated table #21@0: 1 keys, 4599 bytes
+2024/03/19-05:31:52.807825 7f3b009e4700 Compacted 1@0 + 0@1 files => 4599 bytes
+2024/03/19-05:31:52.808395 7f3b009e4700 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/19-05:31:52.808448 7f3b009e4700 Delete type=2 #17
+2024/03/19-05:31:52.816793 7f3b009e4700 Manual compaction at level-0 from '!items!RZJhfIplsocp1MYP' @ 20 : 1 .. '!items!nIjMkLEjT4DnWf20' @ 0 : 0; will stop at (end)
+2024/03/19-05:31:52.820762 7f3b009e4700 Manual compaction at level-1 from '!items!B7k1lN0SWIMx5p1L' @ 72057594037927935 : 1 .. '!items!nIjMkLEjT4DnWf20' @ 0 : 0; will stop at '!items!RZJhfIplsocp1MYP' @ 20 : 1
+2024/03/19-05:31:52.820779 7f3b009e4700 Compacting 1@1 + 1@2 files
+2024/03/19-05:31:52.822388 7f3b009e4700 Generated table #22@1: 5 keys, 7093 bytes
+2024/03/19-05:31:52.822406 7f3b009e4700 Compacted 1@1 + 1@2 files => 7093 bytes
+2024/03/19-05:31:52.823154 7f3b009e4700 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/19-05:31:52.823225 7f3b009e4700 Delete type=2 #9
+2024/03/19-05:31:52.823296 7f3b009e4700 Delete type=2 #21
+2024/03/19-05:31:52.831929 7f3b009e4700 Manual compaction at level-1 from '!items!RZJhfIplsocp1MYP' @ 20 : 1 .. '!items!nIjMkLEjT4DnWf20' @ 0 : 0; will stop at (end)

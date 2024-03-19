@@ -1,0 +1,23 @@
+2024/03/19-05:30:41.439275 7f3b02fbe700 Recovering log #11
+2024/03/19-05:30:41.439354 7f3b02fbe700 Level-0 table #13: started
+2024/03/19-05:30:41.441817 7f3b02fbe700 Level-0 table #13: 3021 bytes OK
+2024/03/19-05:30:41.457854 7f3b02fbe700 Delete type=0 #11
+2024/03/19-05:30:41.457914 7f3b02fbe700 Delete type=3 #10
+2024/03/19-05:31:52.804112 7f3b009e4700 Level-0 table #16: started
+2024/03/19-05:31:52.804159 7f3b009e4700 Level-0 table #16: 0 bytes OK
+2024/03/19-05:31:52.805156 7f3b009e4700 Delete type=0 #14
+2024/03/19-05:31:52.808549 7f3b009e4700 Manual compaction at level-0 from '!items!8ZtPzrn9n3oOT6q2' @ 72057594037927935 : 1 .. '!items!t1RLgo8Toq4WjLeR' @ 0 : 0; will stop at '!items!t1RLgo8Toq4WjLeR' @ 27 : 1
+2024/03/19-05:31:52.808562 7f3b009e4700 Compacting 1@0 + 0@1 files
+2024/03/19-05:31:52.809558 7f3b009e4700 Generated table #17@0: 2 keys, 3021 bytes
+2024/03/19-05:31:52.809571 7f3b009e4700 Compacted 1@0 + 0@1 files => 3021 bytes
+2024/03/19-05:31:52.815007 7f3b009e4700 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/19-05:31:52.815248 7f3b009e4700 Delete type=2 #13
+2024/03/19-05:31:52.816834 7f3b009e4700 Manual compaction at level-0 from '!items!t1RLgo8Toq4WjLeR' @ 27 : 1 .. '!items!t1RLgo8Toq4WjLeR' @ 0 : 0; will stop at (end)
+2024/03/19-05:31:52.823354 7f3b009e4700 Manual compaction at level-1 from '!items!8ZtPzrn9n3oOT6q2' @ 72057594037927935 : 1 .. '!items!t1RLgo8Toq4WjLeR' @ 0 : 0; will stop at '!items!t1RLgo8Toq4WjLeR' @ 27 : 1
+2024/03/19-05:31:52.823364 7f3b009e4700 Compacting 1@1 + 1@2 files
+2024/03/19-05:31:52.825044 7f3b009e4700 Generated table #18@1: 6 keys, 6511 bytes
+2024/03/19-05:31:52.825059 7f3b009e4700 Compacted 1@1 + 1@2 files => 6511 bytes
+2024/03/19-05:31:52.826156 7f3b009e4700 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/19-05:31:52.826260 7f3b009e4700 Delete type=2 #17
+2024/03/19-05:31:52.826456 7f3b009e4700 Delete type=2 #5
+2024/03/19-05:31:52.831946 7f3b009e4700 Manual compaction at level-1 from '!items!t1RLgo8Toq4WjLeR' @ 27 : 1 .. '!items!t1RLgo8Toq4WjLeR' @ 0 : 0; will stop at (end)
