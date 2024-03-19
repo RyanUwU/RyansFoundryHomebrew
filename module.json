@@ -12,7 +12,15 @@
       "type": "icon",
       "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
     }
-  ],  
+  ],
+  "folders": [
+    {
+      "name": "Ryan's Homebrew",
+      "sorting": "a",
+      "color": "#8B477E",
+      "packs": ["harpy-race","siren-collage","lithoid-race","path-of-giant-fix","ratfolk-race","novakids-race","gemalon-born-background","ghost-in-the-machine-patron-ua-"]
+    }
+  ],
   "packs": [
     {
       "name": "harpy-race",
