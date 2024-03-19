@@ -1,8 +1,8 @@
-2024/03/19-05:30:41.645208 7f3b027bd700 Recovering log #11
-2024/03/19-05:30:41.649319 7f3b027bd700 Delete type=0 #11
-2024/03/19-05:30:41.649362 7f3b027bd700 Delete type=3 #10
-2024/03/19-05:31:52.805206 7f3b009e4700 Level-0 table #15: started
-2024/03/19-05:31:52.805428 7f3b009e4700 Level-0 table #15: 0 bytes OK
-2024/03/19-05:31:52.806613 7f3b009e4700 Delete type=0 #13
-2024/03/19-05:31:52.815352 7f3b009e4700 Manual compaction at level-0 from '!items!2DelvyWJxRerp3oN' @ 72057594037927935 : 1 .. '!items!zi5gyRLOiBEgG3wj' @ 0 : 0; will stop at (end)
-2024/03/19-05:31:52.816820 7f3b009e4700 Manual compaction at level-1 from '!items!2DelvyWJxRerp3oN' @ 72057594037927935 : 1 .. '!items!zi5gyRLOiBEgG3wj' @ 0 : 0; will stop at (end)
+2024/03/19-05:50:39.875 7bb8 Log #12: 0 ops saved to Table #19 OK
+2024/03/19-05:50:39.875 7bb8 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\path-of-giant-fix/000012.log: OK
+2024/03/19-05:50:39.876 7bb8 Log #18: 0 ops saved to Table #20 OK
+2024/03/19-05:50:39.876 7bb8 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\path-of-giant-fix/000018.log: OK
+2024/03/19-05:50:39.876 7bb8 Table #5: 25 entries OK
+2024/03/19-05:50:39.944 7bb8 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\path-of-giant-fix/MANIFEST-000010: OK
+2024/03/19-05:50:39.945 7bb8 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\path-of-giant-fix/MANIFEST-000016: OK
+2024/03/19-05:50:40.033 7bb8 **** Repaired leveldb R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\path-of-giant-fix; recovered 1 files; 23766 bytes. Some data may have been lost. ****

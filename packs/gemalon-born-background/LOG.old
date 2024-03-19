@@ -1,23 +1,8 @@
-2024/03/19-05:30:41.676955 7f3b01fbc700 Recovering log #7
-2024/03/19-05:30:41.677020 7f3b01fbc700 Level-0 table #9: started
-2024/03/19-05:30:41.679119 7f3b01fbc700 Level-0 table #9: 6389 bytes OK
-2024/03/19-05:30:41.682219 7f3b01fbc700 Delete type=0 #7
-2024/03/19-05:30:41.682265 7f3b01fbc700 Delete type=3 #6
-2024/03/19-05:31:52.832165 7f3b009e4700 Level-0 table #12: started
-2024/03/19-05:31:52.832197 7f3b009e4700 Level-0 table #12: 0 bytes OK
-2024/03/19-05:31:52.833705 7f3b009e4700 Delete type=0 #10
-2024/03/19-05:31:52.845558 7f3b009e4700 Manual compaction at level-0 from '!items!33bhVcvVV3BXHgIz' @ 72057594037927935 : 1 .. '!items!t5P8X1GhetRA6tn7' @ 0 : 0; will stop at '!items!33bhVcvVV3BXHgIz' @ 14 : 1
-2024/03/19-05:31:52.845569 7f3b009e4700 Compacting 1@0 + 0@1 files
-2024/03/19-05:31:52.854584 7f3b009e4700 Generated table #13@0: 1 keys, 6389 bytes
-2024/03/19-05:31:52.854614 7f3b009e4700 Compacted 1@0 + 0@1 files => 6389 bytes
-2024/03/19-05:31:52.860420 7f3b009e4700 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/19-05:31:52.860565 7f3b009e4700 Delete type=2 #9
-2024/03/19-05:31:52.872553 7f3b009e4700 Manual compaction at level-0 from '!items!33bhVcvVV3BXHgIz' @ 14 : 1 .. '!items!t5P8X1GhetRA6tn7' @ 0 : 0; will stop at (end)
-2024/03/19-05:31:52.874487 7f3b009e4700 Manual compaction at level-1 from '!items!33bhVcvVV3BXHgIz' @ 72057594037927935 : 1 .. '!items!t5P8X1GhetRA6tn7' @ 0 : 0; will stop at '!items!33bhVcvVV3BXHgIz' @ 14 : 1
-2024/03/19-05:31:52.874496 7f3b009e4700 Compacting 1@1 + 1@2 files
-2024/03/19-05:31:52.876401 7f3b009e4700 Generated table #14@1: 5 keys, 14604 bytes
-2024/03/19-05:31:52.876423 7f3b009e4700 Compacted 1@1 + 1@2 files => 14604 bytes
-2024/03/19-05:31:52.879975 7f3b009e4700 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/19-05:31:52.880162 7f3b009e4700 Delete type=2 #5
-2024/03/19-05:31:52.880276 7f3b009e4700 Delete type=2 #13
-2024/03/19-05:31:52.884658 7f3b009e4700 Manual compaction at level-1 from '!items!33bhVcvVV3BXHgIz' @ 14 : 1 .. '!items!t5P8X1GhetRA6tn7' @ 0 : 0; will stop at (end)
+2024/03/19-05:50:40.813 6ca4 Log #8: 0 ops saved to Table #18 OK
+2024/03/19-05:50:40.814 6ca4 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\gemalon-born-background/000008.log: OK
+2024/03/19-05:50:40.814 6ca4 Log #17: 0 ops saved to Table #19 OK
+2024/03/19-05:50:40.815 6ca4 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\gemalon-born-background/000017.log: OK
+2024/03/19-05:50:40.815 6ca4 Table #10: 5 entries OK
+2024/03/19-05:50:40.884 6ca4 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\gemalon-born-background/MANIFEST-000006: OK
+2024/03/19-05:50:40.884 6ca4 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\gemalon-born-background/MANIFEST-000015: OK
+2024/03/19-05:50:40.973 6ca4 **** Repaired leveldb R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\gemalon-born-background; recovered 1 files; 14604 bytes. Some data may have been lost. ****

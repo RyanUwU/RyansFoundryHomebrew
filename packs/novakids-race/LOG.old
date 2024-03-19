@@ -1,16 +1,8 @@
-2024/03/19-05:30:41.668163 7f3b037bf700 Recovering log #14
-2024/03/19-05:30:41.668316 7f3b037bf700 Level-0 table #16: started
-2024/03/19-05:30:41.669816 7f3b037bf700 Level-0 table #16: 16644 bytes OK
-2024/03/19-05:30:41.672344 7f3b037bf700 Delete type=0 #14
-2024/03/19-05:30:41.672404 7f3b037bf700 Delete type=3 #12
-2024/03/19-05:31:52.826521 7f3b009e4700 Level-0 table #19: started
-2024/03/19-05:31:52.826558 7f3b009e4700 Level-0 table #19: 0 bytes OK
-2024/03/19-05:31:52.831778 7f3b009e4700 Delete type=0 #17
-2024/03/19-05:31:52.838863 7f3b009e4700 Manual compaction at level-0 from '!items!6wJ7vlo7XsR5klKH' @ 72057594037927935 : 1 .. '!items.effects!iWcWB99rW2cqkSsm.b2LuIOPPtLRy4sxv' @ 0 : 0; will stop at '!items!hvUheqboybxy3Nsz' @ 42 : 1
-2024/03/19-05:31:52.838876 7f3b009e4700 Compacting 2@0 + 0@1 files
-2024/03/19-05:31:52.841197 7f3b009e4700 Generated table #20@0: 9 keys, 17397 bytes
-2024/03/19-05:31:52.841222 7f3b009e4700 Compacted 2@0 + 0@1 files => 17397 bytes
-2024/03/19-05:31:52.842689 7f3b009e4700 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/19-05:31:52.842792 7f3b009e4700 Delete type=2 #16
-2024/03/19-05:31:52.842896 7f3b009e4700 Delete type=2 #13
-2024/03/19-05:31:52.860689 7f3b009e4700 Manual compaction at level-0 from '!items!hvUheqboybxy3Nsz' @ 42 : 1 .. '!items.effects!iWcWB99rW2cqkSsm.b2LuIOPPtLRy4sxv' @ 0 : 0; will stop at (end)
+2024/03/19-05:50:40.522 3918 Log #15: 0 ops saved to Table #24 OK
+2024/03/19-05:50:40.522 3918 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\novakids-race/000015.log: OK
+2024/03/19-05:50:40.522 3918 Log #23: 0 ops saved to Table #25 OK
+2024/03/19-05:50:40.523 3918 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\novakids-race/000023.log: OK
+2024/03/19-05:50:40.523 3918 Table #17: 9 entries OK
+2024/03/19-05:50:40.596 3918 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\novakids-race/MANIFEST-000012: OK
+2024/03/19-05:50:40.596 3918 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\novakids-race/MANIFEST-000021: OK
+2024/03/19-05:50:40.664 3918 **** Repaired leveldb R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\novakids-race; recovered 1 files; 17397 bytes. Some data may have been lost. ****

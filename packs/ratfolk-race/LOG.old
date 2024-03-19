@@ -1,23 +1,8 @@
-2024/03/19-05:30:41.653814 7f3b037bf700 Recovering log #11
-2024/03/19-05:30:41.653880 7f3b037bf700 Level-0 table #13: started
-2024/03/19-05:30:41.658585 7f3b037bf700 Level-0 table #13: 6419 bytes OK
-2024/03/19-05:30:41.662921 7f3b037bf700 Delete type=0 #11
-2024/03/19-05:30:41.662977 7f3b037bf700 Delete type=3 #10
-2024/03/19-05:31:52.842977 7f3b009e4700 Level-0 table #16: started
-2024/03/19-05:31:52.843015 7f3b009e4700 Level-0 table #16: 0 bytes OK
-2024/03/19-05:31:52.845436 7f3b009e4700 Delete type=0 #14
-2024/03/19-05:31:52.860713 7f3b009e4700 Manual compaction at level-0 from '!items!2Bpz1vP9FWyO1PME' @ 72057594037927935 : 1 .. '!items!y8O5bB7gMoYbnyUJ' @ 0 : 0; will stop at '!items!KSqFPZOZzQ1wB7YJ' @ 22 : 1
-2024/03/19-05:31:52.860723 7f3b009e4700 Compacting 1@0 + 0@1 files
-2024/03/19-05:31:52.870890 7f3b009e4700 Generated table #17@0: 1 keys, 6419 bytes
-2024/03/19-05:31:52.870920 7f3b009e4700 Compacted 1@0 + 0@1 files => 6419 bytes
-2024/03/19-05:31:52.872283 7f3b009e4700 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/19-05:31:52.872450 7f3b009e4700 Delete type=2 #13
-2024/03/19-05:31:52.874455 7f3b009e4700 Manual compaction at level-0 from '!items!KSqFPZOZzQ1wB7YJ' @ 22 : 1 .. '!items!y8O5bB7gMoYbnyUJ' @ 0 : 0; will stop at (end)
-2024/03/19-05:31:52.880370 7f3b009e4700 Manual compaction at level-1 from '!items!2Bpz1vP9FWyO1PME' @ 72057594037927935 : 1 .. '!items!y8O5bB7gMoYbnyUJ' @ 0 : 0; will stop at '!items!KSqFPZOZzQ1wB7YJ' @ 22 : 1
-2024/03/19-05:31:52.880383 7f3b009e4700 Compacting 1@1 + 1@2 files
-2024/03/19-05:31:52.882739 7f3b009e4700 Generated table #18@1: 4 keys, 8172 bytes
-2024/03/19-05:31:52.882771 7f3b009e4700 Compacted 1@1 + 1@2 files => 8172 bytes
-2024/03/19-05:31:52.884327 7f3b009e4700 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/19-05:31:52.884425 7f3b009e4700 Delete type=2 #17
-2024/03/19-05:31:52.884534 7f3b009e4700 Delete type=2 #5
-2024/03/19-05:31:52.884680 7f3b009e4700 Manual compaction at level-1 from '!items!KSqFPZOZzQ1wB7YJ' @ 22 : 1 .. '!items!y8O5bB7gMoYbnyUJ' @ 0 : 0; will stop at (end)
+2024/03/19-05:50:40.194 7538 Log #12: 0 ops saved to Table #22 OK
+2024/03/19-05:50:40.194 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/000012.log: OK
+2024/03/19-05:50:40.195 7538 Log #21: 0 ops saved to Table #23 OK
+2024/03/19-05:50:40.195 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/000021.log: OK
+2024/03/19-05:50:40.195 7538 Table #14: 4 entries OK
+2024/03/19-05:50:40.275 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/MANIFEST-000010: OK
+2024/03/19-05:50:40.276 7538 Archiving R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race/MANIFEST-000019: OK
+2024/03/19-05:50:40.354 7538 **** Repaired leveldb R:\FoundryVTT\foundrydata\Data\modules\RyansFoundryHomebrew\packs\ratfolk-race; recovered 1 files; 8172 bytes. Some data may have been lost. ****
