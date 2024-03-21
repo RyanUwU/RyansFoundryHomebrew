@@ -30,7 +30,8 @@
         "gemalon-born-background",
         "ghost-in-the-machine-patron-ua-",
         "lepidopterae-race"
-      ]
+      ],
+      "folders": []
     }
   ],
   "packs": [
@@ -126,6 +127,17 @@
       "name": "lepidopterae-race",
       "label": "Lepidopterae Race",
       "path": "packs/lepidopterae-race",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "asais-artefacts",
+      "label": "Asai's Artefacts",
+      "path": "packs/asais-artefacts",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
