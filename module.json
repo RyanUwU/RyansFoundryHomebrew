@@ -31,7 +31,8 @@
         "ghost-in-the-machine-patron-ua-",
         "lepidopterae-race",
         "asais-artefacts"
-      ]
+      ],
+      "folders": []
     }
   ],
   "packs": [
@@ -139,6 +140,17 @@
       "label": "Asai's Artefacts",
       "path": "packs/asais-artefacts",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "asais-constructs",
+      "label": "Asai's Constructs",
+      "path": "packs/asais-constructs",
+      "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
