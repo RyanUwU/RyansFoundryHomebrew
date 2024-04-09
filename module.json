@@ -32,7 +32,8 @@
         "lepidopterae-race",
         "asais-artefacts",
         "asais-constructs"
-      ]
+      ],
+      "folders": []
     }
   ],
   "packs": [
@@ -151,6 +152,39 @@
       "label": "Asai's Constructs",
       "path": "packs/asais-constructs",
       "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dragonforger-artificer",
+      "label": "Dragonforger Artificer",
+      "path": "packs/dragonforger-artificer",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "half-tabaxi",
+      "label": "Half-Tabaxi",
+      "path": "packs/half-tabaxi",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "accursed",
+      "label": "Accursed",
+      "path": "packs/accursed",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
