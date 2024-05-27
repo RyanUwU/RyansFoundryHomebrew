@@ -27,7 +27,7 @@
         "path-of-giant-fix",
         "ratfolk-race",
         "novakids-race",
-        "gemalon-born-background",
+        "void-angle",
         "ghost-in-the-machine-patron-ua-",
         "lepidopterae-race",
         "asais-artefacts",
@@ -35,7 +35,8 @@
         "accursed",
         "half-tabaxi",
         "dragonforger-artificer"
-      ]
+      ],
+      "folders": []
     }
   ],
   "packs": [
@@ -98,17 +99,6 @@
       "name": "novakids-race",
       "label": "NovaKids Race",
       "path": "packs/novakids-race",
-      "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "gemalon-born-background",
-      "label": "Gemalon Born Background",
-      "path": "packs/gemalon-born-background",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -183,15 +173,15 @@
       }
     },
     {
-      "name": "accursed",
-      "label": "Accursed",
-      "path": "packs/accursed",
+      "name": "void-angle",
+      "label": "Void Angle",
+      "path": "packs/void-angle",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "id": "RyansFoundryHomebrew",
