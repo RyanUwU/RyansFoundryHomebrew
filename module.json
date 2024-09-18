@@ -1,10 +1,10 @@
 {
   "title": "Ryan's Homebrewery",
   "description": "Sharing data across worlds",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "url": "https://github.com/RyanUwU/RyansFoundryHomebrew",
   "manifest": "https://github.com/RyanUwU/RyansFoundryHomebrew/releases/latest/download/module.json",
-  "download": "https://github.com/RyanUwU/RyansFoundryHomebrew/releases/download/1.3.7/module.zip",
+  "download": "https://github.com/RyanUwU/RyansFoundryHomebrew/releases/download/1.3.8/module.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
