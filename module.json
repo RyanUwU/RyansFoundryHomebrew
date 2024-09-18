@@ -1,10 +1,10 @@
 {
   "title": "Ryan's Homebrewery",
   "description": "Sharing data across worlds",
-  "version": "1.3.8",
+  "version": "1.3.9",
   "url": "https://github.com/RyanUwU/RyansFoundryHomebrew",
   "manifest": "https://github.com/RyanUwU/RyansFoundryHomebrew/releases/latest/download/module.json",
-  "download": "https://github.com/RyanUwU/RyansFoundryHomebrew/releases/download/1.3.8/module.zip",
+  "download": "https://github.com/RyanUwU/RyansFoundryHomebrew/releases/download/1.3.9/module.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
@@ -19,7 +19,7 @@
     {
       "name": "Ryan's Homebrew",
       "sorting": "a",
-      "color": "#8B477E",
+      "color": "#8b477e",
       "packs": [
         "harpy-race",
         "siren-collage",
@@ -142,7 +142,7 @@
     },
     {
       "name": "asais-constructs",
-      "label": "Asai's Constructs",
+      "label": "Artificer Creations",
       "path": "packs/asais-constructs",
       "type": "Actor",
       "system": "dnd5e",
@@ -175,7 +175,7 @@
     },
     {
       "name": "void-angle",
-      "label": "Void Angle",
+      "label": "Void Angel",
       "path": "packs/void-angle",
       "type": "Item",
       "system": "dnd5e",
@@ -189,11 +189,11 @@
       "label": "Artificer Auto Augmentor",
       "path": "packs/artificer-auto-augmentor",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "id": "RyansFoundryHomebrew",
@@ -204,7 +204,8 @@
   "authors": [
     {
       "name": "Ryan",
-      "discord": "ryan_owo"
+      "discord": "ryan_owo",
+      "flags": {}
     }
   ],
   "relationships": {
