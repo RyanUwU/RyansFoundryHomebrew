@@ -1,3 +1,7 @@
-2024/12/07-20:18:12.122 eac Recovering log #938
-2024/12/07-20:18:12.163 eac Delete type=0 #938
-2024/12/07-20:18:12.163 eac Delete type=3 #936
+2025/01/12-00:01:59.791 6fac Recovering log #1019
+2025/01/12-00:02:00.043 6fac Delete type=0 #1019
+2025/01/12-00:02:00.043 6fac Delete type=3 #1018
+2025/01/12-00:04:12.916 69b0 Level-0 table #1023: started
+2025/01/12-00:04:12.916 69b0 Level-0 table #1023: 0 bytes OK
+2025/01/12-00:04:13.027 69b0 Delete type=0 #1021
+2025/01/12-00:04:13.248 69b0 Manual compaction at level-0 from '!items!8NKN69UVRLa31Sap' @ 72057594037927935 : 1 .. '!items.effects!GJOCkQzv27HUHhbP.gAN2VB4mMhOaue34' @ 0 : 0; will stop at (end)

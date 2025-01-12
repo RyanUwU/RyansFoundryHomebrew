@@ -1,3 +1,7 @@
-2024/12/07-20:18:11.809 eac Recovering log #1491
-2024/12/07-20:18:11.874 eac Delete type=0 #1491
-2024/12/07-20:18:11.874 eac Delete type=3 #1489
+2025/01/12-00:01:58.501 6fac Recovering log #1572
+2025/01/12-00:01:58.773 6fac Delete type=0 #1572
+2025/01/12-00:01:58.773 6fac Delete type=3 #1571
+2025/01/12-00:04:12.674 69b0 Level-0 table #1576: started
+2025/01/12-00:04:12.674 69b0 Level-0 table #1576: 0 bytes OK
+2025/01/12-00:04:12.722 69b0 Delete type=0 #1574
+2025/01/12-00:04:12.894 69b0 Manual compaction at level-0 from '!items!0zXiJmZ7oZUNoEG9' @ 72057594037927935 : 1 .. '!items!xf3ZixHKx7pWUWvr' @ 0 : 0; will stop at (end)
