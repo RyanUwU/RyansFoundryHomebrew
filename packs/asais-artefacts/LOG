@@ -1,14 +1,14 @@
-2025/01/12-00:01:59.165 56a0 Recovering log #1544
-2025/01/12-00:01:59.385 56a0 Delete type=0 #1544
-2025/01/12-00:01:59.385 56a0 Delete type=3 #1543
-2025/01/12-00:04:13.137 69b0 Level-0 table #1548: started
-2025/01/12-00:04:13.192 69b0 Level-0 table #1548: 1915 bytes OK
-2025/01/12-00:04:13.248 69b0 Delete type=0 #1546
-2025/01/12-00:04:13.248 69b0 Manual compaction at level-0 from '!folders!3pDJjtq14xaxS5Bu' @ 72057594037927935 : 1 .. '!items.effects!w1JsiLhKkPQSzlPl.LN9GcTCm8AKktQpI' @ 0 : 0; will stop at '!items!AdWblmvofNI0RVPv' @ 238 : 1
-2025/01/12-00:04:13.248 69b0 Compacting 1@0 + 1@1 files
-2025/01/12-00:04:13.438 69b0 Generated table #1549@0: 36 keys, 53623 bytes
-2025/01/12-00:04:13.438 69b0 Compacted 1@0 + 1@1 files => 53623 bytes
-2025/01/12-00:04:13.491 69b0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/12-00:04:13.491 69b0 Delete type=2 #1542
-2025/01/12-00:04:13.538 69b0 Delete type=2 #1548
-2025/01/12-00:04:13.712 69b0 Manual compaction at level-0 from '!items!AdWblmvofNI0RVPv' @ 238 : 1 .. '!items.effects!w1JsiLhKkPQSzlPl.LN9GcTCm8AKktQpI' @ 0 : 0; will stop at (end)
+2025/01/24-23:23:05.483 81f0 Recovering log #1656
+2025/01/24-23:23:05.587 81f0 Delete type=0 #1656
+2025/01/24-23:23:05.587 81f0 Delete type=3 #1654
+2025/01/25-02:43:54.627 8de4 Level-0 table #1661: started
+2025/01/25-02:43:54.702 8de4 Level-0 table #1661: 7333 bytes OK
+2025/01/25-02:43:54.764 8de4 Delete type=0 #1659
+2025/01/25-02:43:54.765 8de4 Manual compaction at level-0 from '!folders!3pDJjtq14xaxS5Bu' @ 72057594037927935 : 1 .. '!items.effects!w1JsiLhKkPQSzlPl.LN9GcTCm8AKktQpI' @ 0 : 0; will stop at '!items!z3RyTZIpNbnbI4KX' @ 241 : 1
+2025/01/25-02:43:54.765 8de4 Compacting 1@0 + 1@1 files
+2025/01/25-02:43:54.927 8de4 Generated table #1662@0: 42 keys, 61001 bytes
+2025/01/25-02:43:54.927 8de4 Compacted 1@0 + 1@1 files => 61001 bytes
+2025/01/25-02:43:54.986 8de4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/01/25-02:43:54.986 8de4 Delete type=2 #1549
+2025/01/25-02:43:54.986 8de4 Delete type=2 #1661
+2025/01/25-02:43:55.159 8de4 Manual compaction at level-0 from '!items!z3RyTZIpNbnbI4KX' @ 241 : 1 .. '!items.effects!w1JsiLhKkPQSzlPl.LN9GcTCm8AKktQpI' @ 0 : 0; will stop at (end)

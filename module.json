@@ -194,6 +194,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "rogue-archetype-infiltrator",
+      "label": "Rogue Archetype: Infiltrator",
+      "path": "packs/rogue-archetype-infiltrator",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "id": "RyansFoundryHomebrew",
