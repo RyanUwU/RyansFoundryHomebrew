@@ -131,7 +131,7 @@
     },
     {
       "name": "asais-artefacts",
-      "label": "Asai's Artefacts",
+      "label": "Artificer Item Workshop",
       "path": "packs/asais-artefacts",
       "type": "Item",
       "system": "dnd5e",
@@ -142,7 +142,7 @@
     },
     {
       "name": "asais-constructs",
-      "label": "Artificer Creations",
+      "label": "Artificer Companion Workshop",
       "path": "packs/asais-constructs",
       "type": "Actor",
       "system": "dnd5e",
@@ -200,11 +200,11 @@
       "label": "Rogue Archetype: Infiltrator",
       "path": "packs/rogue-archetype-infiltrator",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "id": "RyansFoundryHomebrew",
