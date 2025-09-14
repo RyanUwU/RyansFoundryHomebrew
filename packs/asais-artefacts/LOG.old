@@ -1,7 +1,3 @@
-2025/03/20-21:45:30.538 4cec Recovering log #1998
-2025/03/20-21:45:30.727 4cec Delete type=0 #1998
-2025/03/20-21:45:30.727 4cec Delete type=3 #1996
-2025/03/20-21:51:20.014 73ac Level-0 table #2004: started
-2025/03/20-21:51:20.014 73ac Level-0 table #2004: 0 bytes OK
-2025/03/20-21:51:20.062 73ac Delete type=0 #2002
-2025/03/20-21:51:20.213 73ac Manual compaction at level-0 from '!folders!3pDJjtq14xaxS5Bu' @ 72057594037927935 : 1 .. '!items.effects!w1JsiLhKkPQSzlPl.LN9GcTCm8AKktQpI' @ 0 : 0; will stop at (end)
+2025/09/12-18:30:58.774 f64 Recovering log #2445
+2025/09/12-18:30:58.921 f64 Delete type=0 #2445
+2025/09/12-18:30:58.922 f64 Delete type=3 #2444

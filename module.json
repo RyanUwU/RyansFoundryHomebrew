@@ -43,7 +43,7 @@
   "packs": [
     {
       "name": "harpy-race",
-      "label": "Harpy Race",
+      "label": "Race: Harpy",
       "path": "packs/harpy-race",
       "type": "Item",
       "system": "dnd5e",
@@ -54,7 +54,7 @@
     },
     {
       "name": "siren-collage",
-      "label": "Collage of the Siren",
+      "label": "Bard: Collage of the Siren",
       "path": "packs/siren-collage",
       "type": "Item",
       "system": "dnd5e",
@@ -65,7 +65,7 @@
     },
     {
       "name": "lithoid-race",
-      "label": "Lithoid Race",
+      "label": "Race: Lithoid",
       "path": "packs/lithoid-race",
       "type": "Item",
       "system": "dnd5e",
@@ -76,7 +76,7 @@
     },
     {
       "name": "path-of-giant-fix",
-      "label": "Path of the Giant [Fix]",
+      "label": "Barbarian: Path of the Giant",
       "path": "packs/path-of-giant-fix",
       "type": "Item",
       "system": "dnd5e",
@@ -87,7 +87,7 @@
     },
     {
       "name": "ratfolk-race",
-      "label": "Ratfolk Race",
+      "label": "Race: Ratfolk",
       "path": "packs/ratfolk-race",
       "type": "Item",
       "system": "dnd5e",
@@ -98,7 +98,7 @@
     },
     {
       "name": "novakids-race",
-      "label": "NovaKids Race",
+      "label": "Race: NovaKids",
       "path": "packs/novakids-race",
       "type": "Item",
       "system": "dnd5e",
@@ -120,7 +120,7 @@
     },
     {
       "name": "lepidopterae-race",
-      "label": "Lepidopterae Race",
+      "label": "Race: Lepidopterae",
       "path": "packs/lepidopterae-race",
       "type": "Item",
       "system": "dnd5e",
@@ -131,7 +131,7 @@
     },
     {
       "name": "asais-artefacts",
-      "label": "Artificer Item Workshop",
+      "label": "Item Workshop",
       "path": "packs/asais-artefacts",
       "type": "Item",
       "system": "dnd5e",
@@ -142,7 +142,7 @@
     },
     {
       "name": "asais-constructs",
-      "label": "Artificer Companion Workshop",
+      "label": "Companion Workshop",
       "path": "packs/asais-constructs",
       "type": "Actor",
       "system": "dnd5e",
@@ -153,7 +153,7 @@
     },
     {
       "name": "dragonforger-artificer",
-      "label": "Dragonforger Artificer",
+      "label": "Artificer: Dragonforger",
       "path": "packs/dragonforger-artificer",
       "type": "Item",
       "system": "dnd5e",
@@ -164,7 +164,7 @@
     },
     {
       "name": "half-tabaxi",
-      "label": "Half-Tabaxi",
+      "label": "Race: Half-Tabaxi",
       "path": "packs/half-tabaxi",
       "type": "Item",
       "system": "dnd5e",
@@ -186,7 +186,7 @@
     },
     {
       "name": "artificer-auto-augmentor",
-      "label": "Artificer Auto Augmentor",
+      "label": "Artificer: Auto Augmentor",
       "path": "packs/artificer-auto-augmentor",
       "type": "Item",
       "system": "dnd5e",
@@ -205,6 +205,72 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "ranger-slinglash-conclave",
+      "label": "Ranger: Slinglash Conclave",
+      "path": "packs/ranger-slinglash-conclave",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "roll-tables",
+      "label": "Roll Tables",
+      "path": "packs/roll-tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "race-ailuran",
+      "label": "Race: Ailuran",
+      "path": "packs/race-ailuran",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "warlock-patron-the-magician",
+      "label": "Warlock Patron: The Magician",
+      "path": "packs/warlock-patron-the-magician",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "the-magicians-deck",
+      "label": "The Magician's Deck",
+      "path": "packs/the-magicians-deck",
+      "type": "Cards",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pc-pack",
+      "label": "PC Pack",
+      "path": "packs/pc-pack",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "id": "RyansFoundryHomebrew",

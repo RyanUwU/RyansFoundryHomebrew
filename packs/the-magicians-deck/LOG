@@ -1,0 +1,7 @@
+2025/09/14-01:42:01.981 7b24 Recovering log #193
+2025/09/14-01:42:02.033 7b24 Delete type=0 #193
+2025/09/14-01:42:02.033 7b24 Delete type=3 #192
+2025/09/14-01:44:35.367 6718 Level-0 table #197: started
+2025/09/14-01:44:35.367 6718 Level-0 table #197: 0 bytes OK
+2025/09/14-01:44:35.549 6718 Delete type=0 #195
+2025/09/14-01:44:35.804 6718 Manual compaction at level-0 from '!cards!JySudVntBLFQsP2a' @ 72057594037927935 : 1 .. '!cards.cards!mPZZgGxSfqYwrJI0.z2tgU5nMbfGFlwor' @ 0 : 0; will stop at (end)
