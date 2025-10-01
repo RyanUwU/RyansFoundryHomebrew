@@ -1,3 +1,8 @@
-2025/09/12-18:31:00.023 f64 Recovering log #843
-2025/09/12-18:31:00.160 f64 Delete type=0 #843
-2025/09/12-18:31:00.160 f64 Delete type=3 #842
+2025/09/30-23:20:24.301 69b8 Recovering log #924
+2025/09/30-23:20:24.407 69b8 Delete type=0 #924
+2025/09/30-23:20:24.407 69b8 Delete type=3 #922
+2025/09/30-23:43:50.621 822c Level-0 table #929: started
+2025/09/30-23:43:50.627 822c Level-0 table #929: 0 bytes OK
+2025/09/30-23:43:50.776 822c Delete type=0 #927
+2025/09/30-23:43:50.962 822c Manual compaction at level-0 from '!items!2L8LfiXjGp7hWuAA' @ 72057594037927935 : 1 .. '!items.effects!rnjRoDdthiTGbOTZ.ZDhQ320uRZq0ZDhC' @ 0 : 0; will stop at (end)
+2025/09/30-23:43:50.963 822c Manual compaction at level-1 from '!items!2L8LfiXjGp7hWuAA' @ 72057594037927935 : 1 .. '!items.effects!rnjRoDdthiTGbOTZ.ZDhQ320uRZq0ZDhC' @ 0 : 0; will stop at (end)

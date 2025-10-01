@@ -266,6 +266,17 @@
       "label": "PC Pack",
       "path": "packs/pc-pack",
       "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ryans-ravenous-monster-compendium",
+      "label": "Ryan's Ravenous Monster Compendium",
+      "path": "packs/ryans-ravenous-monster-compendium",
+      "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
