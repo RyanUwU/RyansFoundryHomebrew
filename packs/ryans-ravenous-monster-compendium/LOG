@@ -1,24 +1,5 @@
-2025/10/15-11:06:19.697 1b44 Recovering log #28
-2025/10/15-11:06:19.697 1b44 Level-0 table #30: started
-2025/10/15-11:06:19.758 1b44 Level-0 table #30: 14556 bytes OK
-2025/10/15-11:06:19.902 1b44 Delete type=0 #28
-2025/10/15-11:06:19.926 1b44 Delete type=3 #27
-2025/10/15-11:08:27.831 64d4 Level-0 table #33: started
-2025/10/15-11:08:27.917 64d4 Level-0 table #33: 12879 bytes OK
-2025/10/15-11:08:28.054 64d4 Delete type=0 #31
-2025/10/15-11:08:28.054 64d4 Manual compaction at level-0 from '!actors!2EXqYSEAfshJb8la' @ 72057594037927935 : 1 .. '!folders!P8tH9yQ4k5CCVmlH' @ 0 : 0; will stop at '!actors.items!IsOHLnUGkTSEPHRd.wNsmOxjPNOa524Lg' @ 65 : 1
-2025/10/15-11:08:28.055 64d4 Compacting 2@0 + 0@1 files
-2025/10/15-11:08:28.225 64d4 Generated table #34@0: 19 keys, 28088 bytes
-2025/10/15-11:08:28.225 64d4 Compacted 2@0 + 0@1 files => 28088 bytes
-2025/10/15-11:08:28.374 64d4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/10/15-11:08:28.374 64d4 Delete type=2 #30
-2025/10/15-11:08:28.374 64d4 Delete type=2 #33
-2025/10/15-11:08:28.681 64d4 Manual compaction at level-0 from '!actors.items!IsOHLnUGkTSEPHRd.wNsmOxjPNOa524Lg' @ 65 : 1 .. '!folders!P8tH9yQ4k5CCVmlH' @ 0 : 0; will stop at (end)
-2025/10/15-11:08:28.803 64d4 Manual compaction at level-1 from '!actors!2EXqYSEAfshJb8la' @ 72057594037927935 : 1 .. '!folders!P8tH9yQ4k5CCVmlH' @ 0 : 0; will stop at '!actors.items!IsOHLnUGkTSEPHRd.wNsmOxjPNOa524Lg' @ 65 : 1
-2025/10/15-11:08:28.803 64d4 Compacting 1@1 + 1@2 files
-2025/10/15-11:08:28.992 64d4 Generated table #35@1: 47 keys, 59077 bytes
-2025/10/15-11:08:28.992 64d4 Compacted 1@1 + 1@2 files => 59077 bytes
-2025/10/15-11:08:29.112 64d4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/10/15-11:08:29.112 64d4 Delete type=2 #12
-2025/10/15-11:08:29.112 64d4 Delete type=2 #34
-2025/10/15-11:08:29.367 64d4 Manual compaction at level-1 from '!actors.items!IsOHLnUGkTSEPHRd.wNsmOxjPNOa524Lg' @ 65 : 1 .. '!folders!P8tH9yQ4k5CCVmlH' @ 0 : 0; will stop at (end)
+2025/10/29-19:36:14.588 655c Recovering log #41
+2025/10/29-19:36:14.839 655c Level-0 table #43: started
+2025/10/29-19:36:14.960 655c Level-0 table #43: 638143 bytes OK
+2025/10/29-19:36:15.233 655c Delete type=0 #41
+2025/10/29-19:36:15.326 655c Delete type=3 #40
